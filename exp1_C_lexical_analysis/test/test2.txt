@@ -1,0 +1,9 @@
+
+
+int main()
+{
+	string s = "测试中文字符串";
+	char s2[20] = "测试转移字符";
+	char t = '\t';
+	char t2 = '\n1'
+}

@@ -1,0 +1,7 @@
+A
+a b c
+A:abcDEF
+A:abcGHI
+A:bcDEF
+A:aDEF
+A:abDEF

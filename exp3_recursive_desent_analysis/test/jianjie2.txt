@@ -1,0 +1,8 @@
+R Q S
+c b a
+S:Qc
+S:c
+Q:Rb
+Q:b
+R:Sa
+R:a

@@ -1,0 +1,6 @@
+S A
+a b c d
+S:Aa
+S:b
+A:Ac
+A:Sd

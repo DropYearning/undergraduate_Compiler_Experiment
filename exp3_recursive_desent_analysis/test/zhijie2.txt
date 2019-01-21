@@ -1,0 +1,10 @@
+E T F
++ - * / ( ) i
+E:ET+
+E:ET-
+E:T
+T:TF*
+T:TF/
+T:F
+F:(E)
+F:i

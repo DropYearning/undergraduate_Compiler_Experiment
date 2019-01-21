@@ -1,0 +1,45 @@
+
+void fun1(int c)
+{
+	do{
+	for(int i=0;i<10;i++)
+	{
+		c = c - (i + 1);
+	}
+
+	c--;
+	}while(c > 0)
+}
+
+int main()
+{
+	while(1)
+	{
+		int _a = 1;
+		int _123 = 0500;
+		int aa_123 = 0x1234;
+		char c = 'z';
+		char t = '\n';
+		int number = 99;
+		int data = 123;
+		string s = "hello world ";
+		string s[3] ={"word", "ppt", "excel"}
+		if( _a > 0)
+			_123++;
+		else 
+			fun1(_123);
+		switch( aa_123)
+		{
+			case 1: return (data >= number);
+			case 2: return ((data<=number) || (!data)) ;
+			case 3: return (_123 < data ) && (aa_123 <= number);
+			case 4: return aa_123 % 3;
+			case 5: return data/0x999;
+			case 6: break;
+			case 7: continue;
+			case 8: return date != number;
+			case 9: return data * _a;
+			default : return date == number;
+		}
+	}
+}
