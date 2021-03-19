@@ -1,5 +1,5 @@
 # compiler-experiment
-HDU编译原理 2017年秋 
+编译原理 2017年秋 
 
 实验一：简单的C语言词法分析器
 
